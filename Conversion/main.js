@@ -54,3 +54,4 @@ console.log(numVal6);       // 0
 
 let boolVal6 = Boolean(numVal5);
 console.log(boolVal6);      // False
+

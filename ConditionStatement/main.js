@@ -19,3 +19,4 @@ message =
         ? "Both the value are the same." 
         : "Both the value are not same."; 
 console.log(message);
+
